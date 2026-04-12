@@ -5,23 +5,33 @@ Data Analyst | Civil & Systems Engineer (in progress)
 
 📊🚀Soy un Analista de Datos multidisciplinario apasionado por encontrar el "porqué" detrás de los números. Mi enfoque combina el rigor analítico de la Ingeniería Civil con la capacidad técnica de la Ingeniería de Sistemas para transformar datos complejos en tableros de control (dashboards) que impulsan decisiones estratégicas.
 
+
 🛠️ Mi Toolkit Técnico
 
   Lenguajes: Python (Essentials I & II, Data Science) y SQL.
+  
   Visualización: Power BI y Excel Avanzado.
+  
   Análisis: Monitoreo de bases de datos, diseño de encuestas y trazabilidad de operaciones.
+  
   Gestión: Coordinación de proyectos y equipos multidisciplinarios.
+  
 
 📈 Experiencia Destacada
 
   Agencia Nacional de Tierras: Diseñé y mantuve herramientas de seguimiento y dashboards para operaciones de ordenamiento social de la propiedad rural, garantizando la precisión y trazabilidad de los datos.
+  
   CB Ingeniería Eléctrica Electrónica: He liderado equipos y presupuestos en proyectos de infraestructura, optimizando la comunicación entre departamentos técnicos y administrativos.
+  
 
 🎓 Formación y Certificaciones
 
   Ingeniero Civil - Escuela Colombiana de Ingeniería Julio Garavito. Estudiante de Ingeniería de Sistemas - UNAD (Esperado 2026).
+  
   Certificaciones: Business Intelligence Foundation Professional Certification (BIFPC™). Data Analysis with Python (IBM/Coursera). Fundamentos de Gestión de  Proyectos (Coursera).
+  
   Idiomas: Español (Nativo) | Inglés (B2 - Intermedio).
+  
 
 📫 Conectemos
 
