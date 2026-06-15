@@ -1,3 +1,0 @@
-START TRANSACTION;
-DELETE FROM empleados WHERE id_empleado = 1;
-ROLLBACK;
